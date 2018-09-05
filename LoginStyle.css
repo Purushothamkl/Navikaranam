@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#t {
+	color:red;
+	text-align:center;
+}
+body {
+    background-color:#2C3E50;
+	background-image:url(pic.jpg);
+	background-position:center;
+	background-size:cover;
+	height:100vh;
+	text-align:center;
+}
+p.para{
+	font-size:20px; 
+	color:white
+}
+p.para1{
+	font-size:15px;
+	color:white;
+}
+
+a {
+    font-size:11px;
+	color: white;
+}
+label{
+	color:white;
+	font-size:10px;
+}
+p.para4{
+font-size:15px; padding:10px 30px; margin:4px 2px; color:white; display:inline;
+}
+
+}
+p.para6{
+	text-align:center; padding:10px 40px;
+}
+p.div
+ {
+    line-height:1px;	
+}
+</style>
+
+</html>
