@@ -1,0 +1,82 @@
+body{
+	background-image: url(pic.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center:
+}
+.logo{
+	text-indent: inline;
+	repeat: no-repeat;
+	background: url("logo1.jpg");
+	width: 100px;
+	height: 50px;
+	color: red;
+	logo: top;
+	padding:100px 0px 0px 60px;
+	font-size: 10px;
+}
+ .login-page{
+	width: 360px;
+	padding: 0% 0 0;
+	margin: 10px 5px 15px 200px;
+	position: right;
+}
+.form{
+	position: absolute;
+	z-index: 1;
+	background: #ffffff;
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 10px;
+	text-align: top;
+}
+.register-form{
+	position: left;
+	padding: 10px;
+}
+.form input{
+	font-family: Roboto, sans-serif;
+	outline: 1;
+	background: #f2f2f2;
+	width: 100%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+.form button{
+	font-family: "Roboto", sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #4CAF50;
+	width: 100%;
+	border: 0;
+	padding: 15px;
+	color: white;
+	font-size: 14px;
+	cursor: pointer;
+}
+h{
+	font-size: 50px;
+	color: #ffffff;
+	margin: 10px 5px 15px 200px;
+}
+p{
+	font-size: 25px;
+	width: 100%;
+	border: 0;
+	margin: 0 0 5px;
+	padding: 5px;
+	text-color: black;
+	font-family: "Roboto", Segoe UI;
+	font-size: 25px;
+	
+}
+p1
+{
+	font-family: "Roboto", Segoe UI;
+	font-size: 12px;
+	padding: 5px 5px;
+}
+
